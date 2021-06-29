@@ -1,3 +1,3 @@
 # BDM
-Student code: 622110186
+Student code: 622110186 <\n>
 Student name: Namphueng Auawatcharp
