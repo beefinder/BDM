@@ -1,2 +1,2 @@
-*.css linguist-detectable=false
+*.jupyter linguist-detectable=false
 *.js linguist-detectable=true
